@@ -1,5 +1,5 @@
 {
-  "homepage": "https://asldetect.github.io",
+  "homepage": "https://oscarc683.github.io/RealTimeSignLanguageDetection/",
   "dependencies": {
     "@azure/identity": "^4.13.1",
     "@azure/storage-blob": "^12.31.0",
