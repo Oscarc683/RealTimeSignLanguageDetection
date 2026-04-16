@@ -1,0 +1,12 @@
+{
+  "homepage": "https://asldetect.github.io",
+  "dependencies": {
+    "@azure/identity": "^4.13.1",
+    "@azure/storage-blob": "^12.31.0",
+    "dotenv": "^17.4.2",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
